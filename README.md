@@ -54,6 +54,8 @@
 
 ---
 
+## 🌟 Projects
+
 | Project                        | Description                                                                                        | Tech Stack                       |
 | ------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------- |
 | 🍽️ **Food Explore (PHP)**      | Website pencarian makanan dengan rating & ulasan untuk mahasiswa asrama                            | PHP, MySQL, HTML, CSS, JS        |
