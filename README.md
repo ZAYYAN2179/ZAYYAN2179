@@ -66,6 +66,7 @@
 | 🪐 **GalaxAR**                 | Aplikasi AR untuk menampilkan planet 3D saat kartu dipindai                                        | Unity, Vuforia/AR Foundation, C# |
 | 💵 **Money Nominal Detection** | Program ML untuk mendeteksi nominal uang dari gambar                                               | Python, OpenCV, Scikit-learn     |
 | 🚀 **AgeXplore Planet**        | Aplikasi Android untuk menghitung usia di planet lain + catatan explore planet                     | Kotlin, REST API                 |
+| 📟 **Air Care**                | Aplikasi pemantauan kualitas udara dan kondisi ruangan secara real-time menggunakan sensor, mikrokontroler, dan aplikasi Android.  |  Internet of Things, C++/C |
 
 ---
 
