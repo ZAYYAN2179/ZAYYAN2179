@@ -31,7 +31,7 @@
 - Sedang mengerjakan: **Tugas Akhir** 
 - Saat ini belajar: Internet of Things
 - Hobi: Olahraga
-- Goals 2025: **Menyelesaikan Kuliah dengan Tepat Waktu**
+- Goals 2026: **Menyelesaikan Kuliah dengan Tepat Waktu**
 
 ---
 
