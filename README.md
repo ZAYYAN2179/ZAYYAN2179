@@ -26,12 +26,12 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Mahasiswa D3 Rekayasa Perangkat Lunak Aplikasi Telkom University  
-- 📱 Fokus pada Android Development (Kotlin + Jetpack Compose)   
-- 🔭 Sedang mengerjakan: **Tugas Akhir** 
-- 🌱 Saat ini belajar: Internet of Things
-- 💡 Hobi: Olahraga
-- 🎯 Goals 2025: **Menyelesaikan Kuliah dengan Tepat Waktu**
+- Mahasiswa D3 Rekayasa Perangkat Lunak Aplikasi Telkom University  
+- Fokus pada Android Development (Kotlin + Jetpack Compose)   
+- Sedang mengerjakan: **Tugas Akhir** 
+- Saat ini belajar: Internet of Things
+- Hobi: Olahraga
+- Goals 2025: **Menyelesaikan Kuliah dengan Tepat Waktu**
 
 ---
 
@@ -58,15 +58,15 @@
 
 | Project                        | Description                                                                                        | Tech Stack                       |
 | ------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 🍽️ **Food Explore (PHP)**      | Website pencarian makanan dengan rating & ulasan untuk mahasiswa asrama                            | PHP, MySQL, HTML, CSS, JS        |
-| 🍽️ **Food Explore (Laravel)**  | Versi lanjutan dengan role-based access, Map API, update menu, dan pesan via WhatsApp              | Laravel, PHP, MySQL, Blade       |
-| ⚽ **Futsal Booker**           | Aplikasi desktop untuk booking lapangan futsal (user & admin)                                      | Java, OOP                        |
-| 📱 **TVBC App**                | Aplikasi Android untuk absensi, keuangan, dan informasi UKM Volly                                  | Kotlin, Firebase                 |
-| 🌊 **Deep Blue Cleaner**       | Game edukasi pembersihan laut dengan mekanik score & nyawa                                         | Unity, C#                        |
-| 🪐 **GalaxAR**                 | Aplikasi AR untuk menampilkan planet 3D saat kartu dipindai                                        | Unity, Vuforia/AR Foundation, C# |
-| 💵 **Money Nominal Detection** | Program ML untuk mendeteksi nominal uang dari gambar                                               | Python, OpenCV, Scikit-learn     |
-| 🚀 **AgeXplore Planet**        | Aplikasi Android untuk menghitung usia di planet lain + catatan explore planet                     | Kotlin, REST API                 |
-| 📟 **Air Care**                | Aplikasi pemantauan kualitas udara dan kondisi ruangan secara real-time menggunakan sensor, mikrokontroler, dan aplikasi Android.  |  Internet of Things, C++/C |
+| **Food Explore (PHP)**      | Website pencarian makanan dengan rating & ulasan untuk mahasiswa asrama                            | PHP, MySQL, HTML, CSS, JS        |
+| **Food Explore (Laravel)**  | Versi lanjutan dengan role-based access, Map API, update menu, dan pesan via WhatsApp              | Laravel, PHP, MySQL, Blade       |
+| **Futsal Booker**           | Aplikasi desktop untuk booking lapangan futsal (user & admin)                                      | Java, OOP                        |
+| **TVBC App**                | Aplikasi Android untuk absensi, keuangan, dan informasi UKM Volly                                  | Kotlin, Firebase                 |
+| **Deep Blue Cleaner**       | Game edukasi pembersihan laut dengan mekanik score & nyawa                                         | Unity, C#                        |
+| **GalaxAR**                 | Aplikasi AR untuk menampilkan planet 3D saat kartu dipindai                                        | Unity, Vuforia/AR Foundation, C# |
+| **Money Nominal Detection** | Program ML untuk mendeteksi nominal uang dari gambar                                               | Python, OpenCV, Scikit-learn     |
+| **AgeXplore Planet**        | Aplikasi Android untuk menghitung usia di planet lain + catatan explore planet                     | Kotlin, REST API                 |
+| **Air Care**                | Aplikasi pemantauan kualitas udara dan kondisi ruangan secara real-time menggunakan sensor, mikrokontroler, dan aplikasi Android.  |  Internet of Things, C++/C |
 
 ---
 
